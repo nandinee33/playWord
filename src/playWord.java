@@ -7,7 +7,8 @@ public class playWord {
         String b = sc.nextLine();
         int c = a.length();
         int d = b.length();
-
+        char[] ch1 = new char[26];
+        char[] ch2 = new char[26];
 
     }
 }
