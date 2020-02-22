@@ -7,17 +7,17 @@ Alice decides on an encryption scheme involving two large strings where encrypti
 
 Given two strings, a and b, that may or may not be of the same length, determine the minimum number of character deletions required to make aa and bb anagrams. Any characters can be deleted from either of the strings
 
-Output Format
+# Output Format
 Print a single integer denoting the number of characters you must delete to make the two strings anagrams of each other
 
-Sample Input 0
+# Sample Input 0
 cde
 abc
 
-Sample Output 0
+# Sample Output 0
 4
 
-Explanation 0
+# Explanation 0
 
 We delete the following characters from our two strings to turn them into anagrams of each other:
 Remove d and e from cde to get c.
