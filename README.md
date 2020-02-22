@@ -11,11 +11,11 @@ Given two strings, a and b, that may or may not be of the same length, determine
 Print a single integer denoting the number of characters you must delete to make the two strings anagrams of each other
 
 # Sample Input 0
-cde
-abc
+# cde
+# abc
 
 # Sample Output 0
-4
+# 4
 
 # Explanation 0
 
